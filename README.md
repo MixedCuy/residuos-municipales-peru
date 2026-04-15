@@ -40,12 +40,14 @@ Generación de mapas de calor a nivel distrital para el año 2024
 Análisis comparativo entre regiones
 
 🛠️ Tecnologías utilizadas
+
 Python
 Pandas
 Jupyter Notebook
-Herramientas de visualización (matplotlib, seaborn, pyplot, etc.)
+Herramientas de visualización (matplotlib y pyplot)
 
 📌 Posibles mejoras
+
 Incorporar datos poblacionales actualizados para mejorar el cálculo per cápita
 Integrar dashboards interactivos (Power BI, Tableau o similares)
 Automatizar el pipeline ETL
