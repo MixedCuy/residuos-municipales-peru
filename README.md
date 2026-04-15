@@ -29,6 +29,7 @@ Normalización de nombres de distritos no homologados
 Estandarización de formatos de fecha inconsistentes
 Validación de tipos de datos
 Corrección y validación de códigos de ubigeo (longitud y estructura)
+
 📈 Análisis realizado
 
 A partir de los datos procesados, se desarrollaron los siguientes análisis:
@@ -37,11 +38,13 @@ Evolución temporal de la generación de residuos municipales
 Identificación de distritos con mayor y menor generación de residuos por habitante
 Generación de mapas de calor a nivel distrital para el año 2024
 Análisis comparativo entre regiones
+
 🛠️ Tecnologías utilizadas
 Python
 Pandas
 Jupyter Notebook
-Herramientas de visualización (matplotlib, seaborn o similares)
+Herramientas de visualización (matplotlib, seaborn, pyplot, etc.)
+
 📌 Posibles mejoras
 Incorporar datos poblacionales actualizados para mejorar el cálculo per cápita
 Integrar dashboards interactivos (Power BI, Tableau o similares)
